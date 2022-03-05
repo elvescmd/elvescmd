@@ -1,4 +1,4 @@
-## Olá, Meu nome é Elves e eu sou estudante de Anaise e Desenvolvimento de Sistemas!
+## Olá, Meu nome é Elves e eu sou estudante de Analise e Desenvolvimento de Sistemas!
 <div align="center">
   <a href="https://github.com/elves-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elves-dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
