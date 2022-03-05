@@ -12,6 +12,7 @@
   <img align="center" alt="elves-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="elves-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="elves-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="elves-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C5603AQH1pCw40DpOkg/profile-displayphoto-shrink_800_800/0/1627131577055?e=1651708800&v=beta&t=z97wUqBqNlIEkDf4J6VE8cagN3dCMl3sw3wMw6EvTXU">
 </div>
   
   ##
@@ -22,6 +23,6 @@
   <a href = "mailto:eu@elvesdev.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elves-santos-6b0699203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/elves-dev/elves-dev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
