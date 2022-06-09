@@ -1,28 +1,28 @@
 ## Olá, Meu nome é Elves Santos 👋.
-<div align="center">
-  <a href="https://github.com/elves-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elves-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elves-dev&layout=compact&langs_count=7&theme=dark"/>
-    
-## Linguagens que eu uso no dia a dia.
-<div style="display: inline_block"><br>
-  <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div><br/>
 
-  
- 
- ## Minhas redes Sociais.
-<div>  
-  <a href="https://instagram.com/elves.cmd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eu@elvesdev.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://br.linkedin.com/in/elvescmd" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/elves-dev/elves-dev/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+### Hi 🙋🏽‍♂️
+
+Welcome to my profile, here you should find a little bit of everything, if something interests you, call me! Let's talk.
+
+### Detailed information
+
+* **Name**: Elves Santos
+* **Living in**: Belo Horizonte - MG, Brazil
+* **University**: [UNICEUMAR](https://venhaparaunicesumar.com.br/pos-graduacao)
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+📊 **This Week I Spent My Time On**
+
+```text
+
+```
+
+
+<!--END_SECTION:waka-->
+
+<a href="https://www.linkedin.com/in/e1vescmd/"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+![Twitter Follow](https://img.shields.io/twitter/follow/e1vescmd?color=00aced&label=Twitter&style=for-the-badge)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fe1vescmd&labelColor=%23697689&countColor=%23d9e3f0)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fe1vescmd)
