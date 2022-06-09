@@ -19,18 +19,13 @@ Welcome to my profile, here you should find a little bit of everything, if somet
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Sao_Paulo
 
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
 
 ```
 
-
+<figure><embed src="https://wakatime.com/share/@efbf422f-f9af-449a-b14d-ac89095f0989/b3b64e51-9918-477a-8eaa-2427db8abeb7.svg"></embed></figure>
 <!--END_SECTION:waka-->
+
 
 <a href="https://www.linkedin.com/in/e1vescmd/"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 ![Twitter Follow](https://img.shields.io/twitter/follow/e1vescmd?color=00aced&label=Twitter&style=for-the-badge)
