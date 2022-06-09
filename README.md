@@ -14,16 +14,21 @@ Welcome to my profile, here you should find a little bit of everything, if somet
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-57%20mins-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
+⌚︎ Time Zone: America/Sao_Paulo
 
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
 
 ```
 
-<figure><embed src="https://wakatime.com/share/@efbf422f-f9af-449a-b14d-ac89095f0989/b3b64e51-9918-477a-8eaa-2427db8abeb7.svg"></embed></figure>
+
 <!--END_SECTION:waka-->
 
 
