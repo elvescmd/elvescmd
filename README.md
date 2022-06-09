@@ -7,9 +7,10 @@ Welcome to my profile, here you should find a little bit of everything, if somet
 
 ### Detailed information
 
-* **Name**: Elves Santos
-* **Living in**: Belo Horizonte - MG, Brazil
-* **University**: [UNICEUMAR](https://venhaparaunicesumar.com.br/pos-graduacao)
+* **Name**: Elves Santos.
+* **Living in**: Belo Horizonte - MG, Brazil.
+* **University**: [UNICEUMAR](https://venhaparaunicesumar.com.br/pos-graduacao).
+* **Course**: Analysis and systems development.
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
