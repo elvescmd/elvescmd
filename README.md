@@ -15,7 +15,7 @@ Welcome to my profile, here you should find a little bit of everything, if somet
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2013%20mins-blue)
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: America/Sao_Paulo
