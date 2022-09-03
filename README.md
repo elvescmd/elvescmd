@@ -13,7 +13,7 @@ Welcome to my profile, here you should find a little bit of everything, if somet
 * **Course**: Analysis and systems development.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time--blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2021%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
