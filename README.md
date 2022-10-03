@@ -13,7 +13,7 @@ Welcome to my profile, here you should find a little bit of everything, if somet
 * **Course**: Analysis and systems development.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2011%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,10 +21,14 @@ Welcome to my profile, here you should find a little bit of everything, if somet
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               24 mins             ██████████████████░░░░░░░   71.7% 
+R                        4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.81% 
+Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.74% 
+yarn.lock                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  34 mins             █████████████████████████   100.0%
 
 ```
 
