@@ -21,14 +21,10 @@ Welcome to my profile, here you should find a little bit of everything, if somet
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               24 mins             ██████████████████░░░░░░░   71.7% 
-R                        4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.81% 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
-Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.74% 
-yarn.lock                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  34 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
