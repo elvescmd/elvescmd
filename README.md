@@ -21,12 +21,10 @@ Welcome to my profile, here you should find a little bit of everything, if somet
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-PHP                      15 mins             ██████████████░░░░░░░░░░░   55.7% 
-HTML                     10 mins             ██████████░░░░░░░░░░░░░░░   39.8% 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.5%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
