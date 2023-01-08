@@ -13,7 +13,7 @@ Welcome to my profile, here you should find a little bit of everything, if somet
 * **Course**: Analysis and systems development.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2024%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,14 +21,14 @@ Welcome to my profile, here you should find a little bit of everything, if somet
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-YAML                     1 hr 17 mins        █████████████░░░░░░░░░░░░   51.91% 
-MCLang                   43 mins             ███████░░░░░░░░░░░░░░░░░░   28.91% 
-GitIgnore file           15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.52% 
-Properties               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.83% 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.53%
+MCLang                   43 mins             ██████████░░░░░░░░░░░░░░░   41.2% 
+Properties               20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.89% 
+GitIgnore file           18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
+YAML                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.96% 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.84%
 
 💻 Operating System: 
-Windows                  2 hrs 29 mins       █████████████████████████   100.0%
+Windows                  1 hr 45 mins        █████████████████████████   100.0%
 
 ```
 
