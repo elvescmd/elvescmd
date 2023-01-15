@@ -21,14 +21,10 @@ Welcome to my profile, here you should find a little bit of everything, if somet
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Properties               20 mins             ███████████████░░░░░░░░░░   62.55% 
-Text                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
-YAML                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.69% 
-GitIgnore file           2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.56% 
-Batchfile                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   3.71%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
