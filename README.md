@@ -13,7 +13,7 @@ Welcome to my profile, here you should find a little bit of everything, if somet
 * **Course**: Analysis and systems development.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2015%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,14 +21,14 @@ Welcome to my profile, here you should find a little bit of everything, if somet
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               5 hrs 21 mins       ██████████████████░░░░░░░   71.75% 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.35% 
-Rust                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.43% 
-GitIgnore file           19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.25% 
-.env file                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.03%
+JavaScript               6 hrs 24 mins       ██████████████████░░░░░░░   72.31% 
+JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.04% 
+Rust                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
+GitIgnore file           19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.6% 
+.env file                18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.4%
 
 💻 Operating System: 
-Windows                  7 hrs 28 mins       █████████████████████████   100.0%
+Windows                  8 hrs 51 mins       █████████████████████████   100.0%
 
 ```
 
