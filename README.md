@@ -15,6 +15,20 @@ Welcome to my profile, here you should find a little bit of everything, if somet
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2010%20mins-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Java                     45 mins             ████████████████████░░░░░   82.59 % 
+JSON                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+
+💻 Operating System: 
+Windows                  55 mins             █████████████████████████   100.00 % 
+
+```
+
 
 <!--END_SECTION:waka-->
 
