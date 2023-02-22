@@ -6,9 +6,7 @@
 Welcome to my profile, here you should find a little bit of everything, if something interests you, call me! Let's talk.
 
 ### Detailed information
-
-* **Name**: Elves Santos.
-* **Living in**: Belo Horizonte - MG, Brazil.
+* Focused in aplications C++ and .NET
 * **Course**: Analysis and systems development.
 
 <!--START_SECTION:waka-->
