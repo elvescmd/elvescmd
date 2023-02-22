@@ -34,6 +34,3 @@ Linux                    4 mins              ███░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-<a href="https://www.linkedin.com/in/e1vescmd/"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/e1vescmd"  target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fe1vescmd&labelColor=%23697689&countColor=%23d9e3f0)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fe1vescmd)
