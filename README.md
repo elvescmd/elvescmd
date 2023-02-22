@@ -9,7 +9,6 @@ Welcome to my profile, here you should find a little bit of everything, if somet
 
 * **Name**: Elves Santos.
 * **Living in**: Belo Horizonte - MG, Brazil.
-* **University**: [UNICESUMAR](https://venhaparaunicesumar.com.br/pos-graduacao).
 * **Course**: Analysis and systems development.
 
 <!--START_SECTION:waka-->
