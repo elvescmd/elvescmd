@@ -13,7 +13,7 @@ education will transform the world, especially when it is allied to technology.
 * **About**: Hello, my name is Elves and I am a Systems Analysis and Development student with a strong interest in cybersecurity and Java programming. With a curious mindset and a passion for learning, I am constantly looking for new challenges to improve my technical skills and put them into practice. I am committed to finding effective solutions to cybersecurity issues and implementing innovative designs that meet users' needs. With a passion for programming, I am always excited to explore new technologies and emerging trends in the industry. I'm excited to collaborate on challenging projects and create impactful solutions.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2055%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,12 +21,13 @@ education will transform the world, especially when it is allied to technology.
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               3 mins              ██████████████░░░░░░░░░░░   55.57 % 
-Markdown                 1 min               ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
-JSON                     1 min               █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Markdown                 16 mins             ████████████░░░░░░░░░░░░░   46.02 % 
+JavaScript               13 mins             ██████████░░░░░░░░░░░░░░░   38.60 % 
+TypeScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Windows                  35 mins             █████████████████████████   100.00 % 
 ```
 
 
