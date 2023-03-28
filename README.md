@@ -21,13 +21,10 @@ education will transform the world, especially when it is allied to technology.
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-HTML                     2 hrs 40 mins       ████████████████████░░░░░   78.58 % 
-JavaScript               22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-TypeScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 24 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
