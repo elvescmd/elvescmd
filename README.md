@@ -13,7 +13,7 @@ education will transform the world, especially when it is allied to technology.
 * **About**: Hello, my name is Elves and I am a Systems Analysis and Development student with a strong interest in cybersecurity and Java programming. With a curious mindset and a passion for learning, I am constantly looking for new challenges to improve my technical skills and put them into practice. I am committed to finding effective solutions to cybersecurity issues and implementing innovative designs that meet users' needs. With a passion for programming, I am always excited to explore new technologies and emerging trends in the industry. I'm excited to collaborate on challenging projects and create impactful solutions.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2049%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,13 +21,14 @@ education will transform the world, especially when it is allied to technology.
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C#                       4 hrs 20 mins       ███████████████████████░░   91.99 % 
-Python                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+C#                       10 hrs 12 mins      ███████████████████████░░   90.95 % 
+Binary                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Python                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Windows                  4 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 
