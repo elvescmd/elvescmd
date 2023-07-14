@@ -13,7 +13,7 @@ education will transform the world, especially when it is allied to technology.
 * **About**: Hello, my name is Elves and I am a Systems Analysis and Development student with a strong interest in cybersecurity and Java programming. With a curious mindset and a passion for learning, I am constantly looking for new challenges to improve my technical skills and put them into practice. I am committed to finding effective solutions to cybersecurity issues and implementing innovative designs that meet users' needs. With a passion for programming, I am always excited to explore new technologies and emerging trends in the industry. I'm excited to collaborate on challenging projects and create impactful solutions.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%2041%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,14 +21,13 @@ education will transform the world, especially when it is allied to technology.
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   29 mins             █████████████░░░░░░░░░░░░   52.13 % 
-C#                       25 mins             ███████████░░░░░░░░░░░░░░   44.94 % 
-Binary                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-CSHTML                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Python                   4 hrs 56 mins       ███████████████████████░░   90.96 % 
+GitIgnore file           21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 
 💻 Operating System: 
-Windows                  48 mins             ██████████████████████░░░   86.25 % 
-WSL                      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Windows                  5 hrs 17 mins       ████████████████████████░   97.63 % 
+WSL                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 ```
 
 
