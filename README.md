@@ -13,7 +13,7 @@ education will transform the world, especially when it is allied to technology.
 * **About**: Hello, my name is Elves and I am a Systems Analysis and Development student with a strong interest in cybersecurity and Java programming. With a curious mindset and a passion for learning, I am constantly looking for new challenges to improve my technical skills and put them into practice. I am committed to finding effective solutions to cybersecurity issues and implementing innovative designs that meet users' needs. With a passion for programming, I am always excited to explore new technologies and emerging trends in the industry. I'm excited to collaborate on challenging projects and create impactful solutions.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-227%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%2037%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,14 +21,14 @@ education will transform the world, especially when it is allied to technology.
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   4 hrs 26 mins       ████████████████████░░░░░   80.84 % 
-JavaScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-GitIgnore file           21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+JavaScript               9 hrs 21 mins       ████████████████░░░░░░░░░   62.94 % 
+Python                   4 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+GitIgnore file           21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Windows                  5 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  14 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 
