@@ -8,7 +8,7 @@ I am a young enthusiast and lover of technology, I like to observe and know how 
 education will transform the world, especially when it is allied to technology.
 
 ### Detailed information
-* Focused in aplications Rust, Cybersecurity and .NET
+* Focused in aplications C# using .NET Framework
 * **Course**: Analysis and systems development.
 * **About**: Hello, my name is Elves and I am a Systems Analysis and Development student with a strong interest in cybersecurity and Java programming. With a curious mindset and a passion for learning, I am constantly looking for new challenges to improve my technical skills and put them into practice. I am committed to finding effective solutions to cybersecurity issues and implementing innovative designs that meet users' needs. With a passion for programming, I am always excited to explore new technologies and emerging trends in the industry. I'm excited to collaborate on challenging projects and create impactful solutions.
 
