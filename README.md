@@ -12,7 +12,7 @@ education will transform the world, especially when it is allied to technology.
 * **Course**: Analysis and systems development.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%201%20min-blue)
 
 📊 **This Week I Spent My Time On** 
 
