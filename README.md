@@ -12,6 +12,24 @@ education will transform the world, especially when it is allied to technology.
 * **Course**: Analysis and systems development.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2058%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Binary                   4 hrs               ███████████████░░░░░░░░░░   59.15 % 
+C#                       2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.98 % 
+CSHTML                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+
+💻 Operating System: 
+Windows                  6 hrs 47 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
