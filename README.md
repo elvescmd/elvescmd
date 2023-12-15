@@ -12,7 +12,7 @@ education will transform the world, especially when it is allied to technology.
 * **Course**: Analysis and systems development.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2015%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,14 +20,14 @@ education will transform the world, especially when it is allied to technology.
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C#                       9 hrs 38 mins       ███████████░░░░░░░░░░░░░░   43.07 % 
-JavaScript               5 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-Python                   3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Binary                   1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Bash                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+JavaScript               5 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   34.62 % 
+Python                   3 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
+C#                       3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
+Bash                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Binary                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 
 💻 Operating System: 
-Windows                  22 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 
