@@ -20,12 +20,10 @@ education will transform the world, especially when it is allied to technology.
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Binary                   2 hrs 43 mins       ██████████████████░░░░░░░   71.33 % 
-C#                       53 mins             ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 49 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
